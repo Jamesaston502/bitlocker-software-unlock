@@ -5,12 +5,6 @@ BitLocker is a powerful full-disk encryption feature developed by Microsoft that
 
 This guide will walk you through the steps required to unlock BitLocker-protected drives and regain access to your encrypted data efficiently and safely.
 
-.. image:: unlock-bitlocker.png
-   :alt: BitLocker Unlock Guide
-   :width: 400px
-   :align: center
-   :target: https://example.com
-
 Understanding BitLocker Encryption
 ---------------------------------
 
